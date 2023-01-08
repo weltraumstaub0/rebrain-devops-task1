@@ -1,10 +1,12 @@
 # Репозиторий первого модуля работы с Git
-[Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![Git Cheatsheet](https://gist.githubusercontent.com/Fractalbonita/6faaaa1e2b181efdce1423fab4d18662/raw/a4cc2466e69d2310146c2bee47155bec9fc08e29/demo-5baf1bab.png)
 
 ## Описание репозитория 
 
 Зачем была создана система контроля версий Git? 
 > **_Torvalds_**: I really never wanted to do source control management at all and felt that it was just about the least interesting thing in the computing world (with the possible exception of databases ;^), and I hated all SCM’s with a passion. But then BitKeeper came along and really changed the way I viewed source control. BK got most things right and having a local copy of the repository and distributed merging was a big deal. _The big thing about distributed source control is that it makes one of the main issues with SCM’s go away – the politics around “who can make changes.” BK showed that you can avoid that by just giving everybody their own source repository_. But BK had its own problems, too; there were a few technical choices that caused problems (renames were painful), but the biggest downside was the fact that since it wasn’t open source, there was a lot of people who didn’t want to use it. So while we ended up having several core maintainers use BK – it was free to use for open source projects – it never got ubiquitous. So it helped kernel development, but there were still pain points.
+
+Ссылка на страницу с информацией о работе с Git: [Git Cheatsheet](https://gist.github.com/Fractalbonita/6faaaa1e2b181efdce1423fab4d18662)
 
 ### Процесс создания git-репозитория для локальной работы в общем случае выглядит так:
 
@@ -35,20 +37,20 @@ git push
 ### Taблица со статусом выполнения заданий первого модуля:
 
 | Код Задания | Статус Выполнения |
-| ----------- | ----------- |
-| GIT-01      | Выполнено   |
-| GIT-02      | Выполнено   |
-| GIT-03      | Выполнено   |
-| GIT-04      | Выполняется |
-| GIT-05      | Не Выполнено|
-| GIT-06      | Не Выполнено|
-| GIT-07      | Не Выполнено|
-| GIT-08      | Не Выполнено|
-| GIT-09      | Не Выполнено|
-| GIT-10      | Не Выполнено|
-| GIT-11      | Не Выполнено|
-| GIT-12      | Не Выполнено|
-| GIT-13      | Не Выполнено|
-| GIT-14      | Не Выполнено|
-| GIT-15      | Не Выполнено|
-| GIT-16      | Не Выполнено|
+| ----------- | -----------       |
+| GIT-01      | Выполнено         |
+| GIT-02      | Выполнено         |
+| GIT-03      | Выполнено         |
+| GIT-04      | Выполняется       |
+| GIT-05      | Не Выполнено      |
+| GIT-06      | Не Выполнено      | 
+| GIT-07      | Не Выполнено      |
+| GIT-08      | Не Выполнено      |
+| GIT-09      | Не Выполнено      |
+| GIT-10      | Не Выполнено      |
+| GIT-11      | Не Выполнено      |
+| GIT-12      | Не Выполнено      |
+| GIT-13      | Не Выполнено      |
+| GIT-14      | Не Выполнено      |
+| GIT-15      | Не Выполнено      |
+| GIT-16      | Не Выполнено      |
